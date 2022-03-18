@@ -2,7 +2,7 @@
 
 - 🔭 We are IT Technology Consultant
 - 🌱 We Provide IT Infrastructure, Security & Data Protection, and we also focus on Learning Management System 
-- 📫 How to reach me: support@pcman.co.id | https://pcman.co.id
+- 📫 How to reach us: support@pcman.co.id | https://pcman.co.id
 <!--
 **PCManGithub/PCManGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
